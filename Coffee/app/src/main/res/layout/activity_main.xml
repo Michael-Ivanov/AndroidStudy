@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:scrollX="80dp"
+        android:src="@drawable/coffee" />
+
+    <TextView
+        android:id="@+id/quantity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:text="@string/quantity"/>
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="wrap_content"
+        android:layout_height="42dp"
+        android:orientation="horizontal"
+        android:layout_below="@id/quantity"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="16dp">
+        <Button
+            android:id="@+id/buttonMinus"
+            android:layout_width="42dp"
+            android:layout_height="match_parent"
+            android:text="@string/minus"            />
+        <TextView
+            android:id="@+id/quantityField"
+            android:layout_width="36dp"
+            android:layout_height="30dp"
+            android:text="@string/quantity.field"
+            android:background="#1fFFFFFF"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            />
+        <Button
+            android:id="@+id/buttonPlus"
+            android:layout_width="42dp"
+            android:layout_height="match_parent"
+            android:text="@string/plus"            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="160dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/price"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:layout_marginLeft="16dp"/>
+        <TextView
+            android:id="@+id/totalField"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:layout_marginTop="36dp"
+            android:layout_marginLeft="16dp"/>
+
+    </LinearLayout>
+
+
+
+    <Button
+        android:id="@+id/orderButton"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:layout_alignParentBottom="true"
+        android:text="@string/order"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:background="#1fFFFFFF"
+        />
+
+
+</RelativeLayout>

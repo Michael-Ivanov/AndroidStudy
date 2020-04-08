@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coffee2Go</string>
+    <string name="order">Order</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="minus">-</string>
+    <string name="quantity.field">1</string>
+    <string name="plus">+</string>
+    <string name="price">PRICE: $2</string>
+    <string name="total">""</string>
+</resources>
