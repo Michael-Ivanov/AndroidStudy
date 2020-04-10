@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MetroPicker</string>
+    <string name="main_button_text">Pick a station</string>
+    <string name="no_station">No station picked</string>
+</resources>
