@@ -24,23 +24,14 @@ public class StationsListActivity extends ListActivity implements AdapterView.On
         getListView().setAdapter(aa);
         getListView().setOnItemClickListener(this);
 
-        Intent intent = getIntent();
-        String action = intent.getAction();
-        Uri data = intent.getData();
-        Toast.makeText(this, action, Toast.LENGTH_LONG).show();
     }
 
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
         Intent intent = new Intent();
-        if (view != null) {
-            String res = ((TextView) view).getText().toString();
-            intent.putExtra(MainActivity.STATION_NAME, res);
-            setResult(RESULT_OK, intent);
-            finish();
-        } else {
-            intent.putExtra(MainActivity.STATION_NAME, "Station not picked");
-            setResult(RESULT_CANCELED, intent);
-        }
+        String res = ((TextView) view).getText().toString();
+        intent.putExtra(MainActivity.STATION_NAME, res);
+        setResult(RESULT_OK, intent);
+        finish();
     }
 }
