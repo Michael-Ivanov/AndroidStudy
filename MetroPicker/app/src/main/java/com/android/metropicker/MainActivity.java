@@ -54,7 +54,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Toast.makeText(this, "No application available",
                         Toast.LENGTH_SHORT).show();
             }
-
         }
     }
 
@@ -74,7 +73,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 textStation.setText(R.string.no_station);
                 editor.remove("STATION");
             }
-
         }
         editor.apply();
     }
