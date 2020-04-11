@@ -24,10 +24,6 @@ public class StationsListActivity extends ListActivity implements AdapterView.On
         getListView().setAdapter(aa);
         getListView().setOnItemClickListener(this);
 
-        Intent intent = getIntent();
-        String action = intent.getAction();
-        Uri data = intent.getData();
-        Toast.makeText(this, action, Toast.LENGTH_LONG).show();
     }
 
     @Override
