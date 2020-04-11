@@ -1,13 +1,14 @@
 package com.android.metropicker;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.ListActivity;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.TextView;
+import android.widget.Toast;
 
 public class StationsListActivity extends ListActivity implements AdapterView.OnItemClickListener {
 
@@ -22,13 +23,18 @@ public class StationsListActivity extends ListActivity implements AdapterView.On
         ArrayAdapter<String> aa = new ArrayAdapter<>(this, R.layout.list_item, stationsArray);
         getListView().setAdapter(aa);
         getListView().setOnItemClickListener(this);
+
+        Intent intent = getIntent();
+        String action = intent.getAction();
+        Uri data = intent.getData();
+        Toast.makeText(this, action, Toast.LENGTH_LONG).show();
     }
 
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
         Intent intent = new Intent();
         if (view != null) {
-            String res = stationsArray[position];
+            String res = ((TextView) view).getText().toString();
             intent.putExtra(MainActivity.STATION_NAME, res);
             setResult(RESULT_OK, intent);
             finish();
