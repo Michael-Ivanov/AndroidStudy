@@ -2,4 +2,7 @@
     <string name="app_name">MetroPicker</string>
     <string name="main_button_text">Pick a station</string>
     <string name="no_station">No station picked</string>
+    <string name="item_clear_text">Clear</string>
+    <string name="item_exit_text">Exit</string>
+    <string name="item_send">Item send</string>
 </resources>

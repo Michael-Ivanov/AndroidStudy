@@ -1,16 +1,20 @@
 package com.android.metropicker;
 
-import androidx.annotation.Nullable;
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.net.Uri;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
@@ -38,7 +42,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         textStation.setText(selectedStation);
 
     }
-
     @Override
     public void onClick(View v) {
         if (v.getId() == R.id.main_button) {
@@ -75,5 +78,29 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             }
         }
         editor.apply();
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        super.onCreateOptionsMenu(menu);
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu_main, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.item_clear:
+                textStation.setText(null);
+                SharedPreferences.Editor editor = prefs.edit();
+                editor.remove("STATION");
+                editor.apply();
+                return true;
+            case R.id.item_exit:
+                finish();
+                return true;
+        }
+        return super.onOptionsItemSelected(item);
     }
 }
