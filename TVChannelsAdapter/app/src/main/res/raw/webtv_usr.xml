@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<webtvs>
+<webtv title="РБК-ТВ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/106/index.m3u8" description="РБК-ТВ" type="1" group="1" iconsrc=""/> 
+<webtv title="Пятый Канал" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/112/index.m3u8" description="Пятый Канал" type="1" group="1" iconsrc=""/> 
+<webtv title="Россия-24" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/507/index.m3u8" description="Россия-24" type="1" group="1" iconsrc=""/> 
+<webtv title="Москва 24" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/523/index.m3u8" description="Москва 24" type="1" group="1" iconsrc=""/> 
+<webtv title="Bloomberg" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/540/index.m3u8" description="Bloomberg" type="1" group="1" iconsrc=""/> 
+<webtv title="BBC World News" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/545/index.m3u8" description="BBC World News" type="1" group="1" iconsrc=""/> 
+<webtv title="Мир 24" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/712/index.m3u8" description="Мир 24" type="1" group="1" iconsrc=""/> 
+<webtv title="НТВ (+2)" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/713/index.m3u8" description="НТВ (+2)" type="1" group="1" iconsrc=""/> 
+<webtv title="Первый канал (+2)" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/714/index.m3u8" description="Первый канал (+2)" type="1" group="1" iconsrc=""/> 
+<webtv title="Санкт-Петербург" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/715/index.m3u8" description="Санкт-Петербург" type="1" group="1" iconsrc=""/> 
+<webtv title="Мир (+4)" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/741/index.m3u8" description="Мир (+4)" type="1" group="1" iconsrc=""/> 
+<webtv title="Пятый Канал (+2)" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/746/index.m3u8" description="Пятый Канал (+2)" type="1" group="1" iconsrc=""/> 
+<webtv title="TV 1000 Русское кино" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/101/index.m3u8" description="TV 1000 Русское кино" type="1" group="1" iconsrc=""/> 
+<webtv title="Ностальгия" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/102/index.m3u8" description="Ностальгия" type="1" group="1" iconsrc=""/> 
+<webtv title="СТС Love" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/103/index.m3u8" description="СТС Love" type="1" group="1" iconsrc=""/> 
+<webtv title="Sony Sci-Fi" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/110/index.m3u8" description="Sony Sci-Fi" type="1" group="1" iconsrc=""/> 
+<webtv title="КИНОМИКС" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/509/index.m3u8" description="КИНОМИКС" type="1" group="1" iconsrc=""/> 
+<webtv title="КИНОСЕМЬЯ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/125/index.m3u8" description="КИНОСЕМЬЯ" type="1" group="1" iconsrc=""/> 
+<webtv title="РОДНОЕ КИНО" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/126/index.m3u8" description="РОДНОЕ КИНО" type="1" group="1" iconsrc=""/> 
+<webtv title="TV 1000 Action" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/131/index.m3u8" description="TV 1000 Action" type="1" group="1" iconsrc=""/> 
+<webtv title="Кинохит" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/516/index.m3u8" description="Кинохит" type="1" group="1" iconsrc=""/> 
+<webtv title="Amedia 2" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/510/index.m3u8" description="Amedia 2" type="1" group="1" iconsrc=""/> 
+<webtv title="Наше новое кино" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/517/index.m3u8" description="Наше новое кино" type="1" group="1" iconsrc=""/> 
+<webtv title="TV XXI" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/525/index.m3u8" description="TV XXI" type="1" group="1" iconsrc=""/> 
+<webtv title="CBS Drama" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/542/index.m3u8" description="CBS Drama" type="1" group="1" iconsrc=""/> 
+<webtv title="КИНОКОМЕДИЯ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/145/index.m3u8" description="КИНОКОМЕДИЯ" type="1" group="1" iconsrc=""/> 
+<webtv title="ИНДИЙСКОЕ КИНО" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/146/index.m3u8" description="ИНДИЙСКОЕ КИНО" type="1" group="1" iconsrc=""/> 
+<webtv title="КИНОСЕРИЯ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/148/index.m3u8" description="КИНОСЕРИЯ" type="1" group="1" iconsrc=""/> 
+<webtv title="Русский Иллюзион" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/547/index.m3u8" description="Русский Иллюзион" type="1" group="1" iconsrc=""/> 
+<webtv title="Иллюзион +" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/548/index.m3u8" description="Иллюзион +" type="1" group="1" iconsrc=""/> 
+<webtv title="Еврокино" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/549/index.m3u8" description="Еврокино" type="1" group="1" iconsrc=""/> 
+<webtv title="Fox Russia" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/550/index.m3u8" description="Fox Russia" type="1" group="1" iconsrc=""/> 
+<webtv title="Fox Life" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/553/index.m3u8" description="Fox Life" type="1" group="1" iconsrc=""/> 
+<webtv title="Дом Кино" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/154/index.m3u8" description="Дом Кино" type="1" group="1" iconsrc=""/> 
+<webtv title="Amedia 1" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/554/index.m3u8" description="Amedia 1" type="1" group="1" iconsrc=""/> 
+<webtv title="Amedia Premium HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/555/index.m3u8" description="Amedia Premium HD" type="1" group="1" iconsrc=""/> 
+<webtv title="AMEDIA HIT" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/556/index.m3u8" description="AMEDIA HIT" type="1" group="1" iconsrc=""/> 
+<webtv title="TV 1000" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/132/index.m3u8" description="TV 1000" type="1" group="1" iconsrc=""/> 
+<webtv title="МУЖСКОЕ КИНО" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/164/index.m3u8" description="МУЖСКОЕ КИНО" type="1" group="1" iconsrc=""/> 
+<webtv title="AMC" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/557/index.m3u8" description="AMC" type="1" group="1" iconsrc=""/> 
+<webtv title="Sony Entertainment Television" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/559/index.m3u8" description="Sony Entertainment Television" type="1" group="1" iconsrc=""/> 
+<webtv title="2X2" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/702/index.m3u8" description="2X2" type="1" group="1" iconsrc=""/> 
+<webtv title="Sony Turbo" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/708/index.m3u8" description="Sony Turbo" type="1" group="1" iconsrc=""/> 
+<webtv title="Русский бестселлер" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/905/index.m3u8" description="Русский бестселлер" type="1" group="1" iconsrc=""/> 
+<webtv title="Русский роман" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/906/index.m3u8" description="Русский роман" type="1" group="1" iconsrc=""/> 
+<webtv title="Русский детектив" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/907/index.m3u8" description="Русский детектив" type="1" group="1" iconsrc=""/> 
+<webtv title="Любимое Кино" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/722/index.m3u8" description="Любимое Кино" type="1" group="1" iconsrc=""/> 
+<webtv title="КИНОСВИДАНИЕ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/728/index.m3u8" description="КИНОСВИДАНИЕ" type="1" group="1" iconsrc=""/> 
+<webtv title="КИНО ТВ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/732/index.m3u8" description="КИНО ТВ" type="1" group="1" iconsrc=""/> 
+<webtv title="Русская Комедия" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/733/index.m3u8" description="Русская Комедия" type="1" group="1" iconsrc=""/> 
+<webtv title="Detektiv.tv" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/734/index.m3u8" description="Detektiv.tv" type="1" group="1" iconsrc=""/> 
+<webtv title="НТВ Сериал" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/744/index.m3u8" description="НТВ Сериал" type="1" group="1" iconsrc=""/> 
+<webtv title="НСТ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/726/index.m3u8" description="НСТ" type="1" group="1" iconsrc=""/> 
+<webtv title="Bollywood" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/719/index.m3u8" description="Bollywood" type="1" group="1" iconsrc=""/> 
+<webtv title="Europa Plus TV" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/115/index.m3u8" description="Europa Plus TV" type="1" group="1" iconsrc=""/> 
+<webtv title="МУЗ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/116/index.m3u8" description="МУЗ" type="1" group="1" iconsrc=""/> 
+<webtv title="RUSONG TV" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/120/index.m3u8" description="RUSONG TV" type="1" group="1" iconsrc=""/> 
+<webtv title="Bridge TV" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/122/index.m3u8" description="Bridge TV" type="1" group="1" iconsrc=""/> 
+<webtv title="MTV" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/142/index.m3u8" description="MTV" type="1" group="1" iconsrc=""/> 
+<webtv title="MTV Hits" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/153/index.m3u8" description="MTV Hits" type="1" group="1" iconsrc=""/> 
+<webtv title="Музыка" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/155/index.m3u8" description="Музыка" type="1" group="1" iconsrc=""/> 
+<webtv title="VH1 European" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/536/index.m3u8" description="VH1 European" type="1" group="1" iconsrc=""/> 
+<webtv title="MTV Dance" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/558/index.m3u8" description="MTV Dance" type="1" group="1" iconsrc=""/> 
+<webtv title="Mezzo" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/707/index.m3u8" description="Mezzo" type="1" group="1" iconsrc=""/> 
+<webtv title="ТНТ MUSIC" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/710/index.m3u8" description="ТНТ MUSIC" type="1" group="1" iconsrc=""/> 
+<webtv title="BRIDGE TV DANCE" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/711/index.m3u8" description="BRIDGE TV DANCE" type="1" group="1" iconsrc=""/> 
+<webtv title="Наше ТВ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/721/index.m3u8" description="Наше ТВ" type="1" group="1" iconsrc=""/> 
+<webtv title="VH1 Classic" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/724/index.m3u8" description="VH1 Classic" type="1" group="1" iconsrc=""/> 
+<webtv title="История" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/111/index.m3u8" description="История" type="1" group="1" iconsrc=""/> 
+<webtv title="Моя Планета" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/117/index.m3u8" description="Моя Планета" type="1" group="1" iconsrc=""/> 
+<webtv title="Наука 2.0" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/118/index.m3u8" description="Наука 2.0" type="1" group="1" iconsrc=""/> 
+<webtv title="Outdoor Channel" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/119/index.m3u8" description="Outdoor Channel" type="1" group="1" iconsrc=""/> 
+<webtv title="Сов. Секретно" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/121/index.m3u8" description="Сов. Секретно" type="1" group="1" iconsrc=""/> 
+<webtv title="Россия-Культура" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/505/index.m3u8" description="Россия-Культура" type="1" group="1" iconsrc=""/> 
+<webtv title="24 ДОК" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/512/index.m3u8" description="24 ДОК" type="1" group="1" iconsrc=""/> 
+<webtv title="Авто 24" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/538/index.m3u8" description="Авто 24" type="1" group="1" iconsrc=""/> 
+<webtv title="Nat Geo Wild" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/133/index.m3u8" description="Nat Geo Wild" type="1" group="1" iconsrc=""/> 
+<webtv title="nat geographic" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/134/index.m3u8" description="nat geographic" type="1" group="1" iconsrc=""/> 
+<webtv title="DTX" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/135/index.m3u8" description="DTX" type="1" group="1" iconsrc=""/> 
+<webtv title="Discovery Science" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/136/index.m3u8" description="Discovery Science" type="1" group="1" iconsrc=""/> 
+<webtv title="Animal Planet" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/137/index.m3u8" description="Animal Planet" type="1" group="1" iconsrc=""/> 
+<webtv title="ID Xtra" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/139/index.m3u8" description="ID Xtra" type="1" group="1" iconsrc=""/> 
+<webtv title="Discovery Channel" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/140/index.m3u8" description="Discovery Channel" type="1" group="1" iconsrc=""/> 
+<webtv title="Авто Плюс" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/151/index.m3u8" description="Авто Плюс" type="1" group="1" iconsrc=""/> 
+<webtv title="Кухня ТВ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/152/index.m3u8" description="Кухня ТВ" type="1" group="1" iconsrc=""/> 
+<webtv title="Время" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/552/index.m3u8" description="Время" type="1" group="1" iconsrc=""/> 
+<webtv title="Домашние Животные" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/158/index.m3u8" description="Домашние Животные" type="1" group="1" iconsrc=""/> 
+<webtv title="Охота и Рыбалка" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/159/index.m3u8" description="Охота и Рыбалка" type="1" group="1" iconsrc=""/> 
+<webtv title="Надежда" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/656/index.m3u8" description="Надежда" type="1" group="1" iconsrc=""/> 
+<webtv title="Viasat Nature" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/161/index.m3u8" description="Viasat Nature" type="1" group="1" iconsrc=""/> 
+<webtv title="Viasat History" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/162/index.m3u8" description="Viasat History" type="1" group="1" iconsrc=""/> 
+<webtv title="Viasat Explore" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/163/index.m3u8" description="Viasat Explore" type="1" group="1" iconsrc=""/> 
+<webtv title="Travel Channel" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/130/index.m3u8" description="Travel Channel" type="1" group="1" iconsrc=""/> 
+<webtv title="Первый образовательный" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/701/index.m3u8" description="Первый образовательный" type="1" group="1" iconsrc=""/> 
+<webtv title="OCEAN-TV" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/703/index.m3u8" description="OCEAN-TV" type="1" group="1" iconsrc=""/> 
+<webtv title="Бобёр" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/725/index.m3u8" description="Бобёр" type="1" group="1" iconsrc=""/> 
+<webtv title="Зоопарк" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/731/index.m3u8" description="Зоопарк" type="1" group="1" iconsrc=""/> 
+<webtv title="Game Show" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/736/index.m3u8" description="Game Show" type="1" group="1" iconsrc=""/> 
+<webtv title="Морской" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/742/index.m3u8" description="Морской" type="1" group="1" iconsrc=""/> 
+<webtv title="Психология 21" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/532/index.m3u8" description="Психология 21" type="1" group="1" iconsrc=""/> 
+<webtv title="Tiji TV" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/108/index.m3u8" description="Tiji TV" type="1" group="1" iconsrc=""/> 
+<webtv title="Gulli" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/109/index.m3u8" description="Gulli" type="1" group="1" iconsrc=""/> 
+<webtv title="Nick Jr" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/114/index.m3u8" description="Nick Jr" type="1" group="1" iconsrc=""/> 
+<webtv title="Nickelodeon" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/541/index.m3u8" description="Nickelodeon" type="1" group="1" iconsrc=""/> 
+<webtv title="Disney" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/524/index.m3u8" description="Disney" type="1" group="1" iconsrc=""/> 
+<webtv title="Детский мир" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/543/index.m3u8" description="Детский мир" type="1" group="1" iconsrc=""/> 
+<webtv title="Jim Jam" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/138/index.m3u8" description="Jim Jam" type="1" group="1" iconsrc=""/> 
+<webtv title="Cartoon Network" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/143/index.m3u8" description="Cartoon Network" type="1" group="1" iconsrc=""/> 
+<webtv title="Карусель" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/156/index.m3u8" description="Карусель" type="1" group="1" iconsrc=""/> 
+<webtv title="Ani" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/129/index.m3u8" description="Ani" type="1" group="1" iconsrc=""/> 
+<webtv title="Мульт" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/909/index.m3u8" description="Мульт" type="1" group="1" iconsrc=""/> 
+<webtv title="Тлум HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/240/index.m3u8" description="Тлум HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Boomerang" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/723/index.m3u8" description="Boomerang" type="1" group="1" iconsrc=""/> 
+<webtv title="О!" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/727/index.m3u8" description="О!" type="1" group="1" iconsrc=""/> 
+<webtv title="Детский" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/730/index.m3u8" description="Детский" type="1" group="1" iconsrc=""/> 
+<webtv title="В гостях у сказки" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/737/index.m3u8" description="В гостях у сказки" type="1" group="1" iconsrc=""/> 
+<webtv title="Карусель (+3)" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/740/index.m3u8" description="Карусель (+3)" type="1" group="1" iconsrc=""/> 
+<webtv title="Мультик HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/921/index.m3u8" description="Мультик HD" type="1" group="1" iconsrc=""/> 
+<webtv title="ТНТ4" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/104/index.m3u8" description="ТНТ4" type="1" group="1" iconsrc=""/> 
+<webtv title="ЖАРА" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/105/index.m3u8" description="ЖАРА" type="1" group="1" iconsrc=""/> 
+<webtv title="Paramount Comedy Russia" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/157/index.m3u8" description="Paramount Comedy Russia" type="1" group="1" iconsrc=""/> 
+<webtv title="ТНТ (+2)" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/717/index.m3u8" description="ТНТ (+2)" type="1" group="1" iconsrc=""/> 
+<webtv title="НТВ Стиль" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/745/index.m3u8" description="НТВ Стиль" type="1" group="1" iconsrc=""/> 
+<webtv title="Мир" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/113/index.m3u8" description="Мир" type="1" group="1" iconsrc=""/> 
+<webtv title="НТВ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/501/index.m3u8" description="НТВ" type="1" group="1" iconsrc=""/> 
+<webtv title="ТНТ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/502/index.m3u8" description="ТНТ" type="1" group="1" iconsrc=""/> 
+<webtv title="Пятница" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/503/index.m3u8" description="Пятница" type="1" group="1" iconsrc=""/> 
+<webtv title="Телеканал «Россия»" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/504/index.m3u8" description="Телеканал «Россия»" type="1" group="1" iconsrc=""/> 
+<webtv title="СТС" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/506/index.m3u8" description="СТС" type="1" group="1" iconsrc=""/> 
+<webtv title="ТВ3" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/508/index.m3u8" description="ТВ3" type="1" group="1" iconsrc=""/> 
+<webtv title="Первый канал" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/127/index.m3u8" description="Первый канал" type="1" group="1" iconsrc=""/> 
+<webtv title="РЕН ТВ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/128/index.m3u8" description="РЕН ТВ" type="1" group="1" iconsrc=""/> 
+<webtv title="Че" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/513/index.m3u8" description="Че" type="1" group="1" iconsrc=""/> 
+<webtv title="Домашний" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/514/index.m3u8" description="Домашний" type="1" group="1" iconsrc=""/> 
+<webtv title="ТНВ-Планета" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/515/index.m3u8" description="ТНВ-Планета" type="1" group="1" iconsrc=""/> 
+<webtv title="ТВЦ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/520/index.m3u8" description="ТВЦ" type="1" group="1" iconsrc=""/> 
+<webtv title="Телеканал Да Винчи" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/537/index.m3u8" description="Телеканал Да Винчи" type="1" group="1" iconsrc=""/> 
+<webtv title="Телеканал Звезда" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/544/index.m3u8" description="Телеканал Звезда" type="1" group="1" iconsrc=""/> 
+<webtv title="Ю ТВ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/534/index.m3u8" description="Ю ТВ" type="1" group="1" iconsrc=""/> 
+<webtv title="КВН ТВ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/546/index.m3u8" description="КВН ТВ" type="1" group="1" iconsrc=""/> 
+<webtv title="Мама" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/704/index.m3u8" description="Мама" type="1" group="1" iconsrc=""/> 
+<webtv title="ОТР" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/705/index.m3u8" description="ОТР" type="1" group="1" iconsrc=""/> 
+<webtv title="CBS Reality" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/706/index.m3u8" description="CBS Reality" type="1" group="1" iconsrc=""/> 
+<webtv title="ТВЦ (+2)" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/716/index.m3u8" description="ТВЦ (+2)" type="1" group="1" iconsrc=""/> 
+<webtv title="Царьград" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/718/index.m3u8" description="Царьград" type="1" group="1" iconsrc=""/> 
+<webtv title="КРИК-ТВ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/720/index.m3u8" description="КРИК-ТВ" type="1" group="1" iconsrc=""/> 
+<webtv title="NHK World TV" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/729/index.m3u8" description="NHK World TV" type="1" group="1" iconsrc=""/> 
+<webtv title="Fine Living" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/735/index.m3u8" description="Fine Living" type="1" group="1" iconsrc=""/> 
+<webtv title="ЖИВИ!" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/738/index.m3u8" description="ЖИВИ!" type="1" group="1" iconsrc=""/> 
+<webtv title="Звезда (+2)" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/739/index.m3u8" description="Звезда (+2)" type="1" group="1" iconsrc=""/> 
+<webtv title="НТВ Право" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/743/index.m3u8" description="НТВ Право" type="1" group="1" iconsrc=""/> 
+<webtv title="РЕН ТВ (+2)" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/747/index.m3u8" description="РЕН ТВ (+2)" type="1" group="1" iconsrc=""/> 
+<webtv title="Сарафан" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/748/index.m3u8" description="Сарафан" type="1" group="1" iconsrc=""/> 
+<webtv title="Страна" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/749/index.m3u8" description="Страна" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Наш спорт" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/107/index.m3u8" description="Матч! Наш спорт" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Планета" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/123/index.m3u8" description="Матч! Планета" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Футбол 1" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/124/index.m3u8" description="Матч! Футбол 1" type="1" group="1" iconsrc=""/> 
+<webtv title="Наш футбол" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/531/index.m3u8" description="Наш футбол" type="1" group="1" iconsrc=""/> 
+<webtv title="KHL" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/519/index.m3u8" description="KHL" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Футбол 3" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/522/index.m3u8" description="Матч! Футбол 3" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Арена" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/528/index.m3u8" description="Матч! Арена" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Игра" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/529/index.m3u8" description="Матч! Игра" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Футбол 2" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/530/index.m3u8" description="Матч! Футбол 2" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч ТВ" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/535/index.m3u8" description="Матч ТВ" type="1" group="1" iconsrc=""/> 
+<webtv title="Eurosport 1" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/141/index.m3u8" description="Eurosport 1" type="1" group="1" iconsrc=""/> 
+<webtv title="Extreme Sports" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/144/index.m3u8" description="Extreme Sports" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Боец" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/150/index.m3u8" description="Матч! Боец" type="1" group="1" iconsrc=""/> 
+<webtv title="Viasat Sport" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/160/index.m3u8" description="Viasat Sport" type="1" group="1" iconsrc=""/> 
+<webtv title="Русский Экстрим" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/700/index.m3u8" description="Русский Экстрим" type="1" group="1" iconsrc=""/> 
+<webtv title="Первый HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/204/index.m3u8" description="Первый HD" type="1" group="1" iconsrc=""/> 
+<webtv title="TV1000 Premium HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/202/index.m3u8" description="TV1000 Premium HD" type="1" group="1" iconsrc=""/> 
+<webtv title="TV1000 Comedy HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/200/index.m3u8" description="TV1000 Comedy HD" type="1" group="1" iconsrc=""/> 
+<webtv title="TV1000 Megahit HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/201/index.m3u8" description="TV1000 Megahit HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Viasat Nature/History HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/203/index.m3u8" description="Viasat Nature/History HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Россия HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/205/index.m3u8" description="Россия HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Футбол 3 HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/206/index.m3u8" description="Матч! Футбол 3 HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Арена HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/207/index.m3u8" description="Матч! Арена HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Viasat Sport HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/208/index.m3u8" description="Viasat Sport HD" type="1" group="1" iconsrc=""/> 
+<webtv title="MGM HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/209/index.m3u8" description="MGM HD" type="1" group="1" iconsrc=""/> 
+<webtv title="RTG HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/210/index.m3u8" description="RTG HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Футбол 2 HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/211/index.m3u8" description="Матч! Футбол 2 HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/212/index.m3u8" description="Матч! HD" type="1" group="1" iconsrc=""/> 
+<webtv title="НТВ HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/213/index.m3u8" description="НТВ HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Конный Мир HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/214/index.m3u8" description="Конный Мир HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Телеканал КХЛ HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/215/index.m3u8" description="Телеканал КХЛ HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Nat Geo Wild HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/216/index.m3u8" description="Nat Geo Wild HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Mezzo Live HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/217/index.m3u8" description="Mezzo Live HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Animal Planet HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/218/index.m3u8" description="Animal Planet HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Fox HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/219/index.m3u8" description="Fox HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Наш футбол HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/220/index.m3u8" description="Наш футбол HD" type="1" group="1" iconsrc=""/> 
+<webtv title="MTV Live HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/221/index.m3u8" description="MTV Live HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Футбол 1 HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/222/index.m3u8" description="Матч! Футбол 1 HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Nickelodeon HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/223/index.m3u8" description="Nickelodeon HD" type="1" group="1" iconsrc=""/> 
+<webtv title="КИНОПРЕМЬЕРА HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/224/index.m3u8" description="КИНОПРЕМЬЕРА HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Матч! Игра HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/225/index.m3u8" description="Матч! Игра HD" type="1" group="1" iconsrc=""/> 
+<webtv title="HD Life" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/226/index.m3u8" description="HD Life" type="1" group="1" iconsrc=""/> 
+<webtv title="Discovery Channel HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/227/index.m3u8" description="Discovery Channel HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Eurosport 1 HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/228/index.m3u8" description="Eurosport 1 HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Amedia Premium HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/229/index.m3u8" description="Amedia Premium HD" type="1" group="1" iconsrc=""/> 
+<webtv title="National Geographic HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/230/index.m3u8" description="National Geographic HD" type="1" group="1" iconsrc=""/> 
+<webtv title="History HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/231/index.m3u8" description="History HD" type="1" group="1" iconsrc=""/> 
+<webtv title="TLC HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/232/index.m3u8" description="TLC HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Travel Channel HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/233/index.m3u8" description="Travel Channel HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Eurosport 2 North-East HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/234/index.m3u8" description="Eurosport 2 North-East HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Остросюжетное HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/904/index.m3u8" description="Остросюжетное HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Travel+Adventure HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/908/index.m3u8" description="Travel+Adventure HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Дом Кино Премиум HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/911/index.m3u8" description="Дом Кино Премиум HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Кинопоказ HD-1" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/913/index.m3u8" description="Кинопоказ HD-1" type="1" group="1" iconsrc=""/> 
+<webtv title="Кинопоказ HD-2" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/912/index.m3u8" description="Кинопоказ HD-2" type="1" group="1" iconsrc=""/> 
+<webtv title="Наш Кинороман HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/914/index.m3u8" description="Наш Кинороман HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Наш Детектив HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/915/index.m3u8" description="Наш Детектив HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Охотник и рыболов HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/917/index.m3u8" description="Охотник и рыболов HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Еда HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/918/index.m3u8" description="Еда HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Fox Life HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/920/index.m3u8" description="Fox Life HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Мир HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/235/index.m3u8" description="Мир HD" type="1" group="1" iconsrc=""/> 
+<webtv title="BRIDGE HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/236/index.m3u8" description="BRIDGE HD" type="1" group="1" iconsrc=""/> 
+<webtv title="ТНТ HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/237/index.m3u8" description="ТНТ HD" type="1" group="1" iconsrc=""/> 
+<webtv title="1HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/238/index.m3u8" description="1HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Bollywood HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/239/index.m3u8" description="Bollywood HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Эгоист" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/526/index.m3u8" description="Эгоист" type="1" group="1" iconsrc=""/> 
+<webtv title="Playboy" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/527/index.m3u8" description="Playboy" type="1" group="1" iconsrc=""/> 
+<webtv title="Русская Ночь" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/147/index.m3u8" description="Русская Ночь" type="1" group="1" iconsrc=""/> 
+<webtv title="Brazzers TV Europe" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/910/index.m3u8" description="Brazzers TV Europe" type="1" group="1" iconsrc=""/> 
+<webtv title="Искушение HD" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/919/index.m3u8" description="Искушение HD" type="1" group="1" iconsrc=""/> 
+<webtv title="Шалун" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/922/index.m3u8" description="Шалун" type="1" group="1" iconsrc=""/> 
+<webtv title="Candy" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/923/index.m3u8" description="Candy" type="1" group="1" iconsrc=""/> 
+<webtv title="E!" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/901/index.m3u8" description="E!" type="1" group="1" iconsrc=""/> 
+<webtv title="Food Network" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/902/index.m3u8" description="Food Network" type="1" group="1" iconsrc=""/> 
+<webtv title="Freeform" urlkey="0" url="http://edemiptv.iptvbot.biz/iptv/KEY/903/index.m3u8" description="Freeform" type="1" group="1" iconsrc=""/> 
+</webtvs>
