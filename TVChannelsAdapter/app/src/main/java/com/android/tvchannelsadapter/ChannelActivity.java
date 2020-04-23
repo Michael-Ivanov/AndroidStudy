@@ -16,8 +16,6 @@ public class ChannelActivity extends AppCompatActivity {
     private RatingBar ratingBar;
     private WebView webView;
     private int id;
-    Channel channel;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,27 +29,26 @@ public class ChannelActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
         if (intent != null) {
-//            получаем Parcelable канал
-            channel = intent.getParcelableExtra(MainActivity.EXTRA_CHANNEL);
-//            проверяем нормально ли получили
-            if (channel != null) {
-                String channelName = channel.getName();
+
+                String channelName = intent.getStringExtra(MainActivity.EXTRA_CHANNEL);
+                float channelRating = intent.getFloatExtra(MainActivity.EXTRA_RATING, 0);
+
                 channelTitle.setText(channelName);
                 channelName = channelName.replace(" ", "_");
                 webView.loadUrl("https://ru.m.wikipedia.org/wiki/" + channelName);
-                ratingBar.setRating(channel.getRating());
+
+                ratingBar.setRating(channelRating);
                 if (intent.hasExtra(MainActivity.EXTRA_ID)) {
                     id = intent.getIntExtra(MainActivity.EXTRA_ID, -1);
                 }
-            }
+
         }
     }
 
     @Override
     public void onBackPressed() {
-        channel.setRating(ratingBar.getRating());
         Intent intent = new Intent();
-        intent.putExtra(MainActivity.EXTRA_CHANNEL, channel);
+        intent.putExtra(MainActivity.EXTRA_RATING, ratingBar.getRating());
         intent.putExtra(MainActivity.EXTRA_ID, id);
         setResult(RESULT_OK, intent);
         super.onBackPressed();

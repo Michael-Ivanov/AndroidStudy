@@ -27,6 +27,9 @@ public class CrimeLab {
         }
         return sCrimeLab;
     }
+    public List<Crime> getCrimes() {
+        return mCrimes;
+    }
 
     public Crime getCrime(UUID id) {
         for (Crime crime : mCrimes) {
